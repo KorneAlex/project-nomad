@@ -52,7 +52,7 @@
     "@tanstack/eslint-plugin-query": "5.91.4",
     "@types/compression": "1.8.1",
     "@types/dockerode": "4.0.1",
-    "@types/luxon": "3.7.1",
+    "@types/luxon": "3.7.6",
     "@types/node": "22.19.7",
     "@types/react": "19.2.10",
     "@types/react-dom": "19.2.3",
