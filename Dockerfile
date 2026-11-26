@@ -1,7 +1,7 @@
 # 22.23.5 is the 11 Nov 2026 security release for the 22 line
 # Digest is the multi-arch index for node:22.23.5-slim, so a cached
 # node:22-slim from before that release cannot satisfy this build.
-FROM node:22.23.5-slim@sha256:e9f565d32859f0cbfb52125eafe8be39390f24dac302dc3cdf566e8ba3ab21ee AS base
+FROM node:22.23.5-slim@sha256:be979e5523c76fa4d5ca4ebd3099078f220aa47ec39c48ad5b5df9314debd6eb AS base
 
 # Install bash & curl for entrypoint script compatibility, graphicsmagick for pdf2pic, and vips-dev & build-base for sharp 
 RUN apt-get update && apt-get install -y \
