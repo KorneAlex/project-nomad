@@ -78,7 +78,7 @@
     "@adonisjs/transmit": "2.0.2",
     "@adonisjs/transmit-client": "1.1.0",
     "@adonisjs/vite": "4.0.0",
-    "@chonkiejs/core": "0.0.7",
+    "@chonkiejs/core": "0.0.12",
     "@codemirror/lang-markdown": "6.5.0",
     "@codemirror/state": "6.7.1",
     "@codemirror/theme-one-dark": "6.1.3",
